@@ -1,2 +1,3 @@
 # test
-test repository
+test repository\n
+something else entirely
